@@ -1,5 +1,3 @@
-# Add note to Reference calculator for IUPAC
-
 import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox
